@@ -1,1 +1,4 @@
-# Lab_3_24
+# Lab_3
+
+## Nmae:
+## UMKC Email: 
